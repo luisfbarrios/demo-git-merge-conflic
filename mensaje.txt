@@ -1,9 +1,13 @@
+
 hola mundo exterior 
+
 prueba fisica
 
 
 linea 1
 linea 2
 
-linea 40 
-linea 80 
+
+linea x 
+linea y
+
